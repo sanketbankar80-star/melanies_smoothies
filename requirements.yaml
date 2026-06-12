@@ -1,0 +1,3 @@
+dependencies:
+- snowflake-snowpark-python
+- streamlit
